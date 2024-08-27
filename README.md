@@ -11,7 +11,7 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Pedda%20Jagadeesh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/pedda-jagadeesh-9354492a2/)
-[![Mail](https://img.shields.io/badge/Gmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:peddajagadeesh8@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-peddajagadeesh_8@Gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:peddajagadeesh8@gmail.com)
 
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
